@@ -13,6 +13,7 @@ public void getmultilicatio()
 int s=10;
 int x=100;
 
+syso(a*x=t);
 }
 
 
