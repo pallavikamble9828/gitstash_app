@@ -4,6 +4,9 @@ public void getaddtion(){
 
 int a=10;
 int b=10;
+
+syso(a+b==c)
+
 }
 
 
